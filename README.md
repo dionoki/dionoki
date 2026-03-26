@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://i.pinimg.com/originals/37/48/ba/3748ba7c773f068f1f768fe0c7a15d4c.gif" alt="Banner" width="400" height="500">
+    <img src="https://i.pinimg.com/originals/37/48/ba/3748ba7c773f068f1f768fe0c7a15d4c.gif" alt="Banner" width="800" height="500">
   </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinsalles)
