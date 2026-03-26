@@ -13,7 +13,7 @@
 
 
 <div align="left"></div>
- <h1>Noki</h1>
+ <h1 style="5F9EA0">Noki</h1>
  <h2><i>"In the Bleak Midwinter"</i></h2>
 <table align="right">
   <tr>
@@ -26,6 +26,10 @@
   </tr>
 </table>
 
+
+
+  
+</div>
 
 </div>
 
