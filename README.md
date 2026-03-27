@@ -54,7 +54,9 @@
 </pre>
 <br>
 <img src="https://media.tenor.com/BcDTeBe7GQ4AAAAj/sprintermax-star-buttlerfly.gif" height="800" />
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+
+
 <div align="center">
   <h1>Estatísticas</h1>
 </div>
