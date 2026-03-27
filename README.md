@@ -25,8 +25,33 @@
     </td>
   </tr>
 </table>
+<br><br>
+<pre>
+    💼 ADS @ UniAnchieta • Back-end dev • Platform Engineer
+    💻 Programação de Sistemas • DevOps • CyberSegurança
+    📖 Arquitetura de Software • Engenharia de Software
+    🎮 Música • Games • Animes • Code • Arte
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
 
-
+<pre>
+    🎮 Resident Evil • Dark Souls • Sonic Unleashed • God of War
+    🎬 Star VS. As Forças do Mal • Gravity Falls • Apenas um Show • Hora de Aventura
+    🎵 Rotting Christ • ABBA • Michael Jackson • Kreator
+    🐍 Python • C# • JavaScript • HTML • CSS
+</pre>
+<br>
+<img src="https://i.pinimg.com/originals/41/c3/92/41c392f28694ed11828fcebb81c1d090.gif" height="50" />
+<pre>
+    🎮 Resident Evil • Dark Souls • Sonic Unleashed • God of War
+    🎬 Star VS. As Forças do Mal • Gravity Falls • Apenas um Show • Hora de Aventura
+    🎵 Rotting Christ • ABBA • Michael Jackson • Kreator
+    🐍 Python • C# • JavaScript • HTML • CSS
+</pre>
+<br>
+<img src="https://s28-hzfi.freeconvert.com/task/69c699c7af7db409abcb3227/merged.gif" height="50" />
 
   
 </div>
