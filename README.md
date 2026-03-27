@@ -43,14 +43,14 @@
     🐍 Python • C# • JavaScript • HTML • CSS
 </pre>
 <br>
-
 <img src="https://i.pinimg.com/originals/41/c3/92/41c392f28694ed11828fcebb81c1d090.gif" height="50" />
 <br><br>
-<pre>
-    🎮 Resident Evil • Dark Souls • Sonic Unleashed • God of War
-    🎬 Star VS. As Forças do Mal • Gravity Falls • Apenas um Show • Hora de Aventura
-    🎵 Rotting Christ • ABBA • Michael Jackson • Kreator
-    🐍 Python • C# • JavaScript • HTML • CSS
+ 
+<pre> "O ontem é história,
+  o amanhã é um mistério,
+    mas o hoje é uma dádiva.  
+   É por isso que se chama presente." 
+- <b>Mestre Oogway</b>
 </pre>
 <br>
 <img src="https://media.tenor.com/BcDTeBe7GQ4AAAAj/sprintermax-star-buttlerfly.gif" height="800" />
