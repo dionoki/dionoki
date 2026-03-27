@@ -54,8 +54,28 @@
 </pre>
 <br>
 <img src="https://media.tenor.com/BcDTeBe7GQ4AAAAj/sprintermax-star-buttlerfly.gif" height="800" />
+<br><br><br><br><br><br><br><br>
+<div align="center">
+  <h1>Estatísticas</h1>
+</div>
 
-  
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=dionoki&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="400" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dionoki&layout=compact&theme=tokyonight&hide_border=false" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dionoki&bg_color=1a1b27&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=false" width="800" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dionoki&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Estatísticas Gerais" />
+</div>
+
+
 </div>
 
 </div>
